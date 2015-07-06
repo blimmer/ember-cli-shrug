@@ -1,6 +1,8 @@
-# Ember-cli-shrug
+# ember-cli-shrug
 
-This README outlines the details of collaborating on this Ember addon.
+Because sometimes it's the only thing to say.
+
+¯\\\_(ツ)\_/¯
 
 ## Installation
 

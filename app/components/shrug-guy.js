@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-shrug/components/shrug-guy';
