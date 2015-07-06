@@ -4,6 +4,8 @@ Because sometimes it's the only thing to say.
 
 ¯\\\_(ツ)\_/¯
 
+[Demo](http://blimmer.github.io/ember-cli-shrug/)
+
 ## Installation
 
 * `git clone` this repository
