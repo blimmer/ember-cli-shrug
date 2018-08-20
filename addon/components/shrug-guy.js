@@ -1,7 +1,7 @@
-import Ember from 'ember';
+import Component from '@ember/component';
 import layout from '../templates/components/shrug-guy';
 
-export default Ember.Component.extend({
+export default Component.extend({
   classNames: ['shrug-guy'],
   layout: layout
 });
